@@ -1,0 +1,29 @@
+ID da conta: bcec5aac-5da2-4277-bf96-466e99ae983c
+ 
+                DATA               - TRANSAÇÂO - VALOR  
+--------------------------------------------------------
+03 de janeiro de 2022 ( 11:20:27 ) - DEPOSITO  - R$280.0
+04 de janeiro de 2022 ( 11:24:42 ) - DEPOSITO  - R$460.0
+04 de janeiro de 2022 ( 12:24:42 ) - DEPOSITO  - R$40.0
+04 de janeiro de 2022 ( 12:24:42 ) - DEPOSITO  - R$480.0
+04 de janeiro de 2022 ( 15:24:42 ) - DEPOSITO  - R$420.0
+07 de janeiro de 2022 ( 14:36:58 ) -   SAQUE   - R$40.0
+07 de janeiro de 2022 ( 15:36:58 ) - DEPOSITO  - R$80.0
+07 de janeiro de 2022 ( 15:36:58 ) - DEPOSITO  - R$460.0
+08 de janeiro de 2022 ( 12:18:40 ) -   SAQUE   - R$260.0
+08 de janeiro de 2022 ( 14:18:40 ) - DEPOSITO  - R$240.0
+20 de janeiro de 2022 ( 12:43:47 ) - DEPOSITO  - R$60.0
+20 de janeiro de 2022 ( 13:12:24 ) - DEPOSITO  - R$520.0
+20 de janeiro de 2022 ( 14:43:47 ) -   SAQUE   - R$560.0
+21 de janeiro de 2022 ( 13:37:07 ) - DEPOSITO  - R$100.0
+21 de janeiro de 2022 ( 14:37:07 ) - DEPOSITO  - R$580.0
+21 de janeiro de 2022 ( 14:42:37 ) - DEPOSITO  - R$420.0
+23 de janeiro de 2022 ( 12:32:28 ) -   SAQUE   - R$580.0
+26 de janeiro de 2022 ( 12:53:20 ) -   SAQUE   - R$540.0
+28 de janeiro de 2022 ( 11:34:24 ) -   SAQUE   - R$380.0
+29 de janeiro de 2022 ( 12:56:11 ) -   SAQUE   - R$320.0
+29 de janeiro de 2022 ( 13:56:11 ) - DEPOSITO  - R$500.0
+29 de janeiro de 2022 ( 13:56:11 ) -   SAQUE   - R$580.0
+29 de janeiro de 2022 ( 15:56:11 ) - DEPOSITO  - R$600.0
+ 
+Saldo Atual: R$1980.0

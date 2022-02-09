@@ -1,0 +1,23 @@
+ID da conta: 09953f2d-d674-4f8e-bfe0-c17fdd6cb920
+ 
+                DATA               - TRANSAÇÂO - VALOR  
+--------------------------------------------------------
+04 de janeiro de 2022 ( 11:24:42 ) - DEPOSITO  - R$100.0
+04 de janeiro de 2022 ( 13:24:42 ) -   SAQUE   - R$80.0
+07 de janeiro de 2022 ( 15:36:58 ) -   SAQUE   - R$20.0
+07 de janeiro de 2022 ( 15:55:53 ) - DEPOSITO  - R$260.0
+08 de janeiro de 2022 ( 13:18:40 ) - DEPOSITO  - R$360.0
+17 de janeiro de 2022 ( 11:30:28 ) - DEPOSITO  - R$100.0
+17 de janeiro de 2022 ( 14:30:28 ) -   SAQUE   - R$280.0
+20 de janeiro de 2022 ( 15:12:24 ) -   SAQUE   - R$220.0
+20 de janeiro de 2022 ( 15:12:24 ) -   SAQUE   - R$300.0
+21 de janeiro de 2022 ( 14:37:07 ) - DEPOSITO  - R$20.0
+23 de janeiro de 2022 ( 11:32:28 ) - DEPOSITO  - R$160.0
+23 de janeiro de 2022 ( 12:32:28 ) - DEPOSITO  - R$80.0
+25 de janeiro de 2022 ( 12:22:43 ) - DEPOSITO  - R$100.0
+25 de janeiro de 2022 ( 14:22:43 ) - DEPOSITO  - R$160.0
+26 de janeiro de 2022 ( 12:53:20 ) - DEPOSITO  - R$60.0
+26 de janeiro de 2022 ( 15:53:20 ) - DEPOSITO  - R$520.0
+28 de janeiro de 2022 ( 13:34:24 ) -   SAQUE   - R$160.0
+ 
+Saldo Atual: R$860.0
