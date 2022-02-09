@@ -1,6 +1,7 @@
-package com.br.calcularSaldo;
+package com.br.calcularSaldo.bankOperations;
 
 
+import com.br.calcularSaldo.bankOperations.BankInfo;
 import lombok.Getter;
 import lombok.Setter;
 import org.joda.time.DateTime;

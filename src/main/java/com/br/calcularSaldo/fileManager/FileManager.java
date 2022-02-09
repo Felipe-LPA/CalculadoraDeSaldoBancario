@@ -1,5 +1,7 @@
-package com.br.calcularSaldo;
+package com.br.calcularSaldo.fileManager;
 
+import com.br.calcularSaldo.bankOperations.ClientsOperations;
+import com.br.calcularSaldo.bankOperations.Operations;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 import com.opencsv.exceptions.CsvValidationException;

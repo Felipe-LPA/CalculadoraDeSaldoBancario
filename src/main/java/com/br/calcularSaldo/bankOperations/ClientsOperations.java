@@ -1,4 +1,4 @@
-package com.br.calcularSaldo;
+package com.br.calcularSaldo.bankOperations;
 
 import lombok.Getter;
 

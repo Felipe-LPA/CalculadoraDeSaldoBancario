@@ -1,5 +1,9 @@
 package com.br.calcularSaldo;
 
+import com.br.calcularSaldo.bankOperations.ClientsOperations;
+import com.br.calcularSaldo.bankOperations.Operations;
+import com.br.calcularSaldo.fileManager.FileManager;
+
 import java.util.*;
 
 public class Main {
